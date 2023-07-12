@@ -5,7 +5,7 @@ int saat, dakika, aci;
 Console.WriteLine("Saat bilgisini giriniz: ");
 saat = Convert.ToInt32(Console.ReadLine());
 
-Console.WriteLine("Saat bilgisini giriniz: ");
+Console.WriteLine("Dakika bilgisini giriniz: ");
 dakika = Convert.ToInt32(Console.ReadLine());
 
 
